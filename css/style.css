@@ -783,3 +783,12 @@ h1, h2, h3, h4, h5,
   width:200px;
   height:155px;
 }
+
+#imagem-univem{
+  margin-top: 15px; 
+  max-width: 520px;
+}
+
+#imagem-innova{
+  max-width: 520px;
+}
